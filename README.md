@@ -3,7 +3,7 @@
 <p>Pocket Notes is a React-based web application that allows users to create groups and save notes for each group.</p>
 
 <h1> Tech Used</h1>
-  <h4>Create React App</h4>
+  <h3>Create React App</h3>
 
 <h1>Features </h1>
 <li>
@@ -18,15 +18,15 @@
 
 <h1>ScreenShot</h1>
 
-<h3>Initial Page</h3>
+<h2>Initial Page</h2>
 <img src="https://github.com/ruchipratihast/pocket_notes/assets/132348008/39ecec2d-0e85-4c92-99ed-02e369f57092">
 
-<h3>When User click on Plus button</h3>
-![Screenshot 2023-12-15 234204](https://github.com/ruchipratihast/pocket_notes/assets/132348008/674c0753-b7d1-405d-95d1-8135b87d8419)
+<h2>When User click on Plus button</h2>
+<img src="https://github.com/ruchipratihast/pocket_notes/assets/132348008/674c0753-b7d1-405d-95d1-8135b87d8419">
 
-<h3>When User created some groups</h3>
-![Screenshot 2023-12-15 234456](https://github.com/ruchipratihast/pocket_notes/assets/132348008/c0b62f1a-ec2e-4a53-80ec-12e61a2ff12a)
+<h2>When User created some groups</h2>
+<img src="https://github.com/ruchipratihast/pocket_notes/assets/132348008/c0b62f1a-ec2e-4a53-80ec-12e61a2ff12a">
 
-<h3> When User created notes for each group.</h3>
-![Screenshot 2023-12-15 234635](https://github.com/ruchipratihast/pocket_notes/assets/132348008/f8785221-8e99-40e1-8be3-f18ffa29fcaf)
+<h2> When User created notes for each group.</h2>
+<img src="https://github.com/ruchipratihast/pocket_notes/assets/132348008/f8785221-8e99-40e1-8be3-f18ffa29fcaf">
 
