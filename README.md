@@ -19,7 +19,7 @@
 <h1>ScreenShot</h1>
 
 <h3>Initial Page</h3>
-<img src="https://github.com/ruchipratihast/pocket_notes/assets/132348008/39ecec2d-0e85-4c92-99ed-02e369f57092" alt="Girl in a jacket" width="500" height="600">
+<img src="https://github.com/ruchipratihast/pocket_notes/assets/132348008/39ecec2d-0e85-4c92-99ed-02e369f57092" alt="Girl in a jacket" width="800" height="500">
 
 <h3>When User click on Plus button</h3>
 ![Screenshot 2023-12-15 234204](https://github.com/ruchipratihast/pocket_notes/assets/132348008/674c0753-b7d1-405d-95d1-8135b87d8419)
